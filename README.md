@@ -5,7 +5,7 @@ Passionate about **scalable systems** & **seamless user experiences**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-## Currently Learnings
+## Currently Learning
 
 * Advanced **DSA in Golang**
 * **Microservices Architecture** & Event-Driven Systems
