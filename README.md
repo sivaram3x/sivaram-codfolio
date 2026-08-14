@@ -11,7 +11,7 @@ Passionate about **scalable systems** & **seamless user experiences**
 * **Microservices Architecture** & Event-Driven Systems
 * **High-Performance Computing** & Distributed Systems
 
-## Fun Factss
+## Fun Facts
 
 * 💡 Passionate about system design, microservices, and distributed computing.
 * ⚡ Always exploring high-performance computing & scalable architectures.
